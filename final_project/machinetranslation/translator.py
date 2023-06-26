@@ -16,3 +16,4 @@ def french_to_english(french_text):
     """
     english_text = MyMemoryTranslator(source='french', target='english').translate(french_text)
     return english_text
+
